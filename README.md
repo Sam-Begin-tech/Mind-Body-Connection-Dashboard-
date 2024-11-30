@@ -27,7 +27,7 @@ This project is a web-based health and wellness dashboard that provides users wi
 ## **Technologies Used**
 
 - **Backend:** Python (Flask Framework)
-- **AI Models:** Regression Model, SARIMA for time series forecasting, LangChain for text-based insights
+- **AI Models:** Regression Model, SARIMA for time series forecasting, LangChain for text-based insights, OpenAI LLM
 - **Frontend:** HTML Templates (Jinja2)
 - **Data Storage:** JSON for user metrics and mock journal entries
 
