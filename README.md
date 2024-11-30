@@ -24,5 +24,5 @@ This project is a Flask-based API that processes and normalizes wearable device 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/wearable-data-normalization.git
+   git clone https://github.com/Sam-Begin-tech/Mind-Body-Connection-Dashboard-.git
    cd wearable-data-normalization
