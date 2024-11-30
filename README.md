@@ -1,4 +1,4 @@
-# Fitness & sentiment Analysis Flask Application
+![All_agents_recommendations](https://github.com/user-attachments/assets/0892f5a7-c3d3-43cb-b55d-fd3b1aa30c78)# Fitness & sentiment Analysis Flask Application
 
 This repository contains a Flask application designed to analyze user fitness data, sleep patterns, and journal entries. It combines predictions, summaries, and insights from multiple AI agents into a unified API response.
 
@@ -28,18 +28,19 @@ This repository contains a Flask application designed to analyze user fitness da
 
 ## 🗂️ File Structure
 
-├── app.py # Main Flask application
-├── static/ 
-    │ 
-    ├── data.json # User fitness data 
-    │ 
-    ├── mock_journal_data.json 
-├── sentiment_analysis_agent.py 
-├── fitness_agent.py 
-├── sleep_analysis_agent.py 
-├── templates/ 
-└── README.md 
 
+```
+├── app.py                       
+├── static/  
+│   ├── data.json                 
+│   ├── mock_journal_data.json   
+├── sentiment_analysis_agent.py   
+├── fitness_agent.py         
+├── sleep_analysis_agent.py       
+├── templates/                     
+└── README.md                      
+```
+```
 
 
 ---
@@ -56,7 +57,7 @@ This repository contains a Flask application designed to analyze user fitness da
 
 
 
-![Output Screenshot](./static/All agents providing holistic recommendations.png "Screenshot of the output")
+![Output Screenshot](./static/All_agents_recommendations.png "Screenshot of the output")
 
 
 
