@@ -56,7 +56,7 @@ This repository contains a Flask application designed to analyze user fitness da
 
 
 
-![Output Screenshot](./assets/All agents providing holistic recommendations.png "Screenshot of the output")
+![Output Screenshot](./static/All agents providing holistic recommendations.png "Screenshot of the output")
 
 
 
