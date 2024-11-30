@@ -1,0 +1,86 @@
+
+{
+    "user_id": "12345",
+    "journal_entries": [
+      {
+        "date": "2024-11-20",
+        "entry": "Felt a bit tired today, but managed to get through my work. Could use more rest."
+      },
+      {
+        "date": "2024-11-19",
+        "entry": "Had a productive day. Completed most of the tasks on my to-do list!"
+      },
+      {
+        "date": "2024-11-18",
+        "entry": "Feeling a little stressed with deadlines approaching. Need to prioritize better."
+      },
+      {
+        "date": "2024-11-17",
+        "entry": "Had a relaxing day. Spent time reading and going for a walk."
+      },
+      {
+        "date": "2024-11-16",
+        "entry": "Enjoyed a fun outing with friends. It was refreshing!"
+      },
+      {
+        "date": "2024-11-15",
+        "entry": "Focused on self-care today. Did yoga and cooked a healthy meal."
+      },
+      {
+        "date": "2024-11-14",
+        "entry": "Work was challenging, but I feel good about solving a tough problem."
+      },
+      {
+        "date": "2024-11-13",
+        "entry": "Rainy day. Stayed indoors and watched a movie. It felt cozy."
+      },
+      {
+        "date": "2024-11-12",
+        "entry": "Struggled with focus today. Will try to plan better tomorrow."
+      },
+      {
+        "date": "2024-11-11",
+        "entry": "Felt motivated and energetic. Accomplished a lot at work!"
+      },
+      {
+        "date": "2024-11-10",
+        "entry": "Spent quality time with family. It was heartwarming."
+      },
+      {
+        "date": "2024-11-09",
+        "entry": "Had a quiet day. Did some journaling and reflection."
+      },
+      {
+        "date": "2024-11-08",
+        "entry": "Busy day at work, but I managed to handle everything well."
+      },
+      {
+        "date": "2024-11-07",
+        "entry": "Felt under the weather. Took it easy and rested."
+      },
+      {
+        "date": "2024-11-06",
+        "entry": "Got a surprise package from a friend. It made my day!"
+      },
+      {
+        "date": "2024-11-05",
+        "entry": "Worked late, but I feel proud of completing an important project."
+      },
+      {
+        "date": "2024-11-04",
+        "entry": "Had an inspiring conversation with a mentor. Feeling optimistic."
+      },
+      {
+        "date": "2024-11-03",
+        "entry": "Spent time organizing my workspace. It feels much better now."
+      },
+      {
+        "date": "2024-11-02",
+        "entry": "Went for a hike. The fresh air and exercise felt amazing!"
+      },
+      {
+        "date": "2024-11-01",
+        "entry": "Started a new book today. I’m excited to see how it unfolds!"
+      }
+    ]
+  }
