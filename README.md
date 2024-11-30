@@ -49,7 +49,7 @@ This repository contains a Flask application designed to analyze user fitness da
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/Sam-Begin-tech/Mind-Body-Connection-Dashboard-.git
    cd repo-name
 
    pip install -r requirements.txt
