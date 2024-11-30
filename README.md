@@ -28,7 +28,17 @@ This repository contains a Flask application designed to analyze user fitness da
 
 ## 🗂️ File Structure
 
-├── app.py # Main Flask application ├── static/ │ ├── data.json # User fitness data │ ├── mock_journal_data.json # Mock journal entries ├── sentiment_analysis_agent.py # Module for journal analysis ├── fitness_agent.py # Module for calorie prediction ├── sleep_analysis_agent.py # Module for sleep analysis ├── templates/ # HTML templates (if used for UI) └── README.md # Documentation
+├── app.py # Main Flask application
+├── static/ 
+    │ 
+    ├── data.json # User fitness data 
+    │ 
+    ├── mock_journal_data.json 
+├── sentiment_analysis_agent.py 
+├── fitness_agent.py 
+├── sleep_analysis_agent.py 
+├── templates/ 
+└── README.md 
 
 
 
